@@ -1,4 +1,4 @@
-package sqlviz
+package qtable
 
 import (
 	"database/sql"
